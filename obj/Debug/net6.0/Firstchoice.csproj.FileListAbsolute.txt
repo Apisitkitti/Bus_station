@@ -1,0 +1,15 @@
+E:\MDT211\Exerciehomew\Firstchoice\bin\Debug\net6.0\Firstchoice.exe
+E:\MDT211\Exerciehomew\Firstchoice\bin\Debug\net6.0\Firstchoice.deps.json
+E:\MDT211\Exerciehomew\Firstchoice\bin\Debug\net6.0\Firstchoice.runtimeconfig.json
+E:\MDT211\Exerciehomew\Firstchoice\bin\Debug\net6.0\Firstchoice.dll
+E:\MDT211\Exerciehomew\Firstchoice\bin\Debug\net6.0\Firstchoice.pdb
+E:\MDT211\Exerciehomew\Firstchoice\obj\Debug\net6.0\Firstchoice.csproj.AssemblyReference.cache
+E:\MDT211\Exerciehomew\Firstchoice\obj\Debug\net6.0\Firstchoice.GeneratedMSBuildEditorConfig.editorconfig
+E:\MDT211\Exerciehomew\Firstchoice\obj\Debug\net6.0\Firstchoice.AssemblyInfoInputs.cache
+E:\MDT211\Exerciehomew\Firstchoice\obj\Debug\net6.0\Firstchoice.AssemblyInfo.cs
+E:\MDT211\Exerciehomew\Firstchoice\obj\Debug\net6.0\Firstchoice.csproj.CoreCompileInputs.cache
+E:\MDT211\Exerciehomew\Firstchoice\obj\Debug\net6.0\Firstchoice.dll
+E:\MDT211\Exerciehomew\Firstchoice\obj\Debug\net6.0\refint\Firstchoice.dll
+E:\MDT211\Exerciehomew\Firstchoice\obj\Debug\net6.0\Firstchoice.pdb
+E:\MDT211\Exerciehomew\Firstchoice\obj\Debug\net6.0\Firstchoice.genruntimeconfig.cache
+E:\MDT211\Exerciehomew\Firstchoice\obj\Debug\net6.0\ref\Firstchoice.dll
